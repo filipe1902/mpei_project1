@@ -2,9 +2,9 @@
 
 ## Autores
 
--   Gonçalo Ribau (119560)\
--   Filipe Marques (120303)\
--   Dezembro 2024
+-   Gonçalo Ribau (119560)
+-   Filipe Marques (120303)
+  Dezembro 2024
 
 ------------------------------------------------------------------------
 
